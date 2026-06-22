@@ -21,9 +21,10 @@ This project provides an end-to-end data analytics solution designed to transfor
 ├── data/               # Raw and processed datasets
 ├── notebooks/          # Modularized analysis & modeling
 │   ├── 01_data_audit.ipynb
-│   ├── 02_exploratory_analysis.ipynb
+|   ├── 02_exploratory_analysis.ipynb
+│   ├── 03_visualization_prep.ipynb
 │   └── 04_predictive_modeling.ipynb
-├── dashboard.pbix      # Power BI implementation
+├── Retail_sales_intelligence_dashboard.pbix      # Power BI implementation
 └── reports/            # Executive summaries and findings
 ```
 ## Visualizing Results
